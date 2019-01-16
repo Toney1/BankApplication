@@ -21,6 +21,8 @@ public class BankController
 	@PostMapping("/registercustomer")
 	public BankCustomer addCustomer(@RequestBody BankCustomer customer)
 	{
+		
+		
 		BankCustomer cus = service.createUser(customer);
 		return cus;
 	}
