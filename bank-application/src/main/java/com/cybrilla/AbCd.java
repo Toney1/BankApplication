@@ -1,10 +1,12 @@
 package com.cybrilla;
 
-public class AbCd {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("This is praneeth");
+public class ABCD 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Please Delete later !!");
+		System.out.println("Then Delete again");
+		
 	}
 
 }
