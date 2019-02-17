@@ -7,6 +7,8 @@ public class pavan {
 		System.out.println("Hello guys");
 		System.out.println("study hard");
 		System.out.println("i got job -- party on wednesday");
+		System.out.println("every one attened");
+	
 	}
 
 }
