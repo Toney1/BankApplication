@@ -1,6 +1,6 @@
 package com.cybrilla;
 
-public class ABCD 
+public class AbCd 
 {
 	public static void main(String[] args) 
 	{
