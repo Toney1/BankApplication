@@ -14,7 +14,12 @@ public class ABCD
 		
 		System.out.println("helloworld");
 		System.out.println("cool");
+<<<<<<< HEAD
 		System.out.println("pawan kalyan");
+=======
+		System.out.println("hi nagendra");
+		
+>>>>>>> 2f05990c83e2ead106c69881a86ac43313e6b31f
 	}
 
 }
