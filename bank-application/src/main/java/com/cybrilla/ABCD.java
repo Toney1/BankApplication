@@ -11,6 +11,8 @@ public class ABCD
 		System.out.println("Please Delete later !!");
 		System.out.println("hello");
 		System.out.println("Then Delete again");
+		System.out.println("hi nag");
+		System.out.println("helloworld");
 		
 	}
 
