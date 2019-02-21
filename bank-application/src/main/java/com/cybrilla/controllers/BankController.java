@@ -33,7 +33,7 @@ public class BankController
 		return service.fetchUserDetails(customerId);
 	}
 	
-	@PutMapping("/deposit")
+	@PutMapping("/deposi")
 	public BankCustomer deposit(@RequestBody BankCustomer customer)
 	{
 		return service.deposit(customer);
